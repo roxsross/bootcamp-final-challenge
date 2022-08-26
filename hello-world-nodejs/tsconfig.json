@@ -1,0 +1,32 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "allowUnreachableCode": false,
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "module": "commonjs",
+    "noEmitOnError": true,
+    "noImplicitReturns": true,
+    "outDir": "dist",
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2015",
+    "types": ["node"],
+    "lib": ["es2020", "esnext.asynciterable"],
+    "baseUrl": "src"
+  },
+  "exclude": [
+    "**/coverage/",
+    "**/dist*/",
+    "**/node_modules/",
+    "**/scripts/",
+    "**/*.d.ts"
+  ]
+}
