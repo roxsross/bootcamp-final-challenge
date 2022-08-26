@@ -37,7 +37,7 @@ Parte del ejercicio es ver cómo prioriza el trabajo y lo divide en partes manej
 - Asegúrese de que el proxy nginx esté configurado correctamente para representar ambas aplicaciones.
 - Revisar las aplicaciones para la preparación de la producción.
 
-Gracias a todos por participar en la Edicion del Bootcamp DevOps
+### Gracias a todos por participar en la Edicion del Bootcamp DevOps
 
 ⌨️ con ❤️ por [roxsross](https://github.com/roxsross) 😊
 
