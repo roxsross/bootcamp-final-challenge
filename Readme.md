@@ -24,7 +24,9 @@ Mientras revisa los archivos, tenga en cuenta cualquier problema, incluso si no 
 
 ## Time
 
-Dedique un máximo de tres (3) horas para completar el trabajo que considere que representa sus habilidades de DevOps. Si pasa más de tres (3) horas, registre el tiempo que pasó y proporcione detalles. Parte del ejercicio es ver cómo prioriza el trabajo y lo divide en partes manejables "divides y venceras"
+Dedique un máximo de tres (3) horas para completar el trabajo que considere que representa sus habilidades de DevOps. Si pasa más de tres (3) horas, registre el tiempo que pasó y proporcione detalles, pueden usar trello. 
+
+Parte del ejercicio es ver cómo prioriza el trabajo y lo divide en partes manejables "divides y venceras"
 
 ## DevOps Challanges
 
